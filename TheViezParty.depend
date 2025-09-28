@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758833373 source:/home/netbook/Dokumente/codeblocks/TheViezParty/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengles2.h>
+	<stdbool.h>
+
